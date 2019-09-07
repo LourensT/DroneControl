@@ -1,0 +1,21 @@
+
+id: 0
+command: command
+response: b'OK'
+start time: 2019-08-31 15:31:48.193252
+end_time: 2019-08-31 15:31:48.244460
+duration: 0.051208
+
+id: 1
+command: takeoff
+response: b'OK'
+start time: 2019-08-31 15:31:48.244460
+end_time: 2019-08-31 15:31:48.297190
+duration: 0.05273
+
+id: 2
+command: land
+response: b'OK'
+start time: 2019-08-31 15:31:53.298665
+end_time: 2019-08-31 15:31:53.380325
+duration: 0.08166
